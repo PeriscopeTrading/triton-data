@@ -1,5 +1,15 @@
 [
   {
+    "Address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "Symbol": "AAVE",
+    "Decimal": 18
+  },
+  {
+    "Address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "Symbol": "SNX",
+    "Decimal": 18
+  },
+  {
     "Address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
     "Symbol": "YFI",
     "Decimal": 18
