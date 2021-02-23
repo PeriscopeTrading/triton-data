@@ -1,5 +1,10 @@
 [
   {
+    "Address": "0xba100000625a3754423978a60c9317c58a424e3D",
+    "Symbol": "BAL",
+    "Decimal": 18
+  },
+  {
     "Address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
     "Symbol": "AAVE",
     "Decimal": 18
