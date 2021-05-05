@@ -1,5 +1,10 @@
 [
   {
+    "Address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
+    "Symbol": "RAI",
+    "Decimal": 18,
+  },
+  {
     "Address": "0xba100000625a3754423978a60c9317c58a424e3D",
     "Symbol": "BAL",
     "Decimal": 18
